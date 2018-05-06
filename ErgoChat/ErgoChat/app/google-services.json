@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "63574082018",
+    "firebase_url": "https://ergo-99b54.firebaseio.com",
+    "project_id": "ergo-99b54",
+    "storage_bucket": "ergo-99b54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63574082018:android:e2ee44d851651da4",
+        "android_client_info": {
+          "package_name": "org.techknights.ergo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63574082018-q85imflnhimprdtbuikk46ro1knh6fc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cuBVo5SFqmOl8PxholcPx8ouL3lEFLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63574082018:android:3b65878f70e3f109",
+        "android_client_info": {
+          "package_name": "com.morasquad.ergochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63574082018-bl0bl3ho1ns9vc8ije7op6koanpjvb31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.morasquad.ergochat",
+            "certificate_hash": "e461a2d513a9f738da0b1ba7be078da7a57d37c1"
+          }
+        },
+        {
+          "client_id": "63574082018-q85imflnhimprdtbuikk46ro1knh6fc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cuBVo5SFqmOl8PxholcPx8ouL3lEFLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63574082018-q85imflnhimprdtbuikk46ro1knh6fc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
